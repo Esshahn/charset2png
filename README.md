@@ -19,10 +19,8 @@ A Python tool to convert the Commodore 64 character set (and other 8-bit fonts) 
 
 1. Clone this repository or download the files
 
-2. Install virtual environment and dependencies:
+2. Install dependencies:
 ```bash
-python3 -m venv venv
-source venv/bin/activate
 pip install -r requirements.txt
 ```
 
